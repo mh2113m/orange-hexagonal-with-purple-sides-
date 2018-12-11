@@ -1,0 +1,21 @@
+from turtle import *
+
+
+speed(1)
+pensize(10)
+pencolor("orange")
+fillcolor("green")
+forward(100)
+left(60)
+forward(100)
+left(60)
+forward(100)
+left(60)
+forward(100)
+left(60)
+forward(100)
+left(60)
+forward(100)
+left(60)
+
+exitonclick()
